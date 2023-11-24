@@ -1,0 +1,14 @@
+C:\Users\mnbso\source\repos\【第１回目】プログラム作成\【第１回目】プログラム作成\bin\Debug\netcoreapp3.1\【第１回目】プログラム作成.exe
+C:\Users\mnbso\source\repos\【第１回目】プログラム作成\【第１回目】プログラム作成\bin\Debug\netcoreapp3.1\【第１回目】プログラム作成.deps.json
+C:\Users\mnbso\source\repos\【第１回目】プログラム作成\【第１回目】プログラム作成\bin\Debug\netcoreapp3.1\【第１回目】プログラム作成.runtimeconfig.json
+C:\Users\mnbso\source\repos\【第１回目】プログラム作成\【第１回目】プログラム作成\bin\Debug\netcoreapp3.1\【第１回目】プログラム作成.runtimeconfig.dev.json
+C:\Users\mnbso\source\repos\【第１回目】プログラム作成\【第１回目】プログラム作成\bin\Debug\netcoreapp3.1\【第１回目】プログラム作成.dll
+C:\Users\mnbso\source\repos\【第１回目】プログラム作成\【第１回目】プログラム作成\bin\Debug\netcoreapp3.1\【第１回目】プログラム作成.pdb
+C:\Users\mnbso\source\repos\【第１回目】プログラム作成\【第１回目】プログラム作成\obj\Debug\netcoreapp3.1\【第１回目】プログラム作成.csproj.AssemblyReference.cache
+C:\Users\mnbso\source\repos\【第１回目】プログラム作成\【第１回目】プログラム作成\obj\Debug\netcoreapp3.1\【第１回目】プログラム作成.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnbso\source\repos\【第１回目】プログラム作成\【第１回目】プログラム作成\obj\Debug\netcoreapp3.1\【第１回目】プログラム作成.AssemblyInfoInputs.cache
+C:\Users\mnbso\source\repos\【第１回目】プログラム作成\【第１回目】プログラム作成\obj\Debug\netcoreapp3.1\【第１回目】プログラム作成.AssemblyInfo.cs
+C:\Users\mnbso\source\repos\【第１回目】プログラム作成\【第１回目】プログラム作成\obj\Debug\netcoreapp3.1\【第１回目】プログラム作成.csproj.CoreCompileInputs.cache
+C:\Users\mnbso\source\repos\【第１回目】プログラム作成\【第１回目】プログラム作成\obj\Debug\netcoreapp3.1\【第１回目】プログラム作成.dll
+C:\Users\mnbso\source\repos\【第１回目】プログラム作成\【第１回目】プログラム作成\obj\Debug\netcoreapp3.1\【第１回目】プログラム作成.pdb
+C:\Users\mnbso\source\repos\【第１回目】プログラム作成\【第１回目】プログラム作成\obj\Debug\netcoreapp3.1\【第１回目】プログラム作成.genruntimeconfig.cache
